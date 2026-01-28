@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="nerd.png" type="image/x-icon">
+    <title>contatos</title>
+ </head>
+ <body>
+     <form action="mailto:devgbmc@gmail.com" method="post" enctype="text/plain">
+          <h3>Preencha o formulário para nos contactar:</h3> 
+      <hr>
+          <br> 
+          <label for="Nome">Nome completo:</label> 
+          <input type="text" id="nome" name="name"> <br>
+          <br>
+      <hr>
+          <br>
+          <label for="documento">Documeto oficial com foto:</label>
+          <input type="file" id="documento" accept="image/*,.pdf"><br>
+          <br>
+      <hr>
+          <br>
+          <label for="nascimento">Data de nascimento</label>
+          <input type="date" id="nascimento" name="DN"> <br>
+          <br>
+      <hr>
+          <br>
+          <label for="news">Marque para receber navidades 👉</label>
+          <input type="checkbox" id="news" name="marcar"> <br>
+          <br>
+      <hr>
+          <br>
+          <label for="msg">Deixe sua mensagem:</label> <br>
+          <br>
+          <textarea name="mensagem" id="msg" cols="60" rows="10"></textarea> 
+          <br>
+      <hr>
+          <br>
+          <label for="nota">Avalie nosso formulário (<b>👈:</b> péssimo;<b> 👉:</b>  ótimo)</label> 
+          <input type="range" id="nota" min="0" max="10" step="1"> <br>
+          <br>
+      <hr> 
+          <br>
+          <input type="submit" > 
+          <p>ou <strong>Tel:</strong><a href="http://wa.me/5524993012394" target="_blank"> 24 993012394</a></p><p><a href="/biografia/index.HTML">voltar</a></p>
+     </form>
+ </body>
+</html>
