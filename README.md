@@ -4,7 +4,7 @@ Repositório criado para estudos e prática em **Qualidade de Software (QA)**, c
 
 Este projeto será **evolutivo**, acompanhando meu progresso nos estudos e práticas ao longo do curso.
 
-Obs: “Os tópicos marcados como "em breve" representam estudos planejados, ainda não praticados neste repositório.”
+Obs: “Os tópicos marcados como **em breve** representam estudos planejados, ainda não praticados neste repositório.”
 
 ---
 
