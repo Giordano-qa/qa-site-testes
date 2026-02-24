@@ -69,6 +69,13 @@ Obs: “Os tópicos marcados como **em breve** representam estudos planejados, a
 
 ---
 
+## 📬 Contato
+
+- 📧 E-mail: giordanocaruso@gmail.com
+- 💼 LinkedIn: [em breve]
+
+---
+
 ## 📂 Estrutura do Repositório (inicial)
 
 ```bash
