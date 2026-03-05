@@ -1,84 +1,61 @@
 # 🧪 QA Site Testes
 
-Repositório criado para estudos e prática em **Qualidade de Software (QA)**, cobrindo desde fundamentos de testes manuais até automação de testes, seguindo uma trilha de aprendizado Full Stack QA.
+Projeto prático de **Quality Assurance (QA)** com foco em testes manuais, criação de casos de teste, testes exploratórios e documentação estruturada de bugs.
 
-Este projeto será **evolutivo**, acompanhando meu progresso nos estudos e práticas ao longo do curso.
-
-Obs: “Os tópicos marcados como **em breve** representam estudos planejados, ainda não praticados neste repositório.”
+Este repositório demonstra a aplicação prática de atividades típicas de um QA Júnior, com organização, clareza e versionamento utilizando Git e GitHub.
 
 ---
 
 ## 🎯 Objetivo
 
-- Aprender e aplicar conceitos fundamentais de QA
-- Praticar testes manuais e automatizados
-- Versionar projetos de teste usando Git e GitHub
-- Criar um portfólio técnico voltado para oportunidades em QA
+Aplicar fundamentos de testes de software na prática, incluindo:
+
+- Criação de casos de teste estruturados  
+- Validação de cenários funcionais  
+- Testes exploratórios  
+- Registro e documentação de bugs  
+- Organização de evidências  
 
 ---
 
-## 📚 Conteúdos abordados (em progresso)
+## 📂 Estrutura do Projeto
 
-### ✅ Fundamentos
-- Fundamentos de Software e Web
-- Introdução ao Mundo de QA
-- Fundamentos de Testes de Software
-- Tipos de testes
-- Casos de teste e Bug Report
-- Ciclo de vida do defeito
-
-### 🔄 Metodologias Ágeis
-- Scrum
-- Kanban (conceitos)
-- Processos ágeis
-- Uso do Jira para gestão de testes
-
-### 💻 Base Técnica
-- Lógica de programação para QA
-- JavaScript básico
-- Git e GitHub
-- Versionamento de código
-
-### 🤖 Automação de Testes (em breve)
-- Cypress
-- Automação de testes end-to-end
-- Page Objects
-- Fixtures
-- Boas práticas de automação
-
-### 🌐 Testes de API (futuro)
-- Testes automatizados de API
-- Validação de respostas e status codes
-
-### 🗄️ Banco de Dados (futuro)
-- Consultas SQL
-- Validação de dados
-- Relacionamento entre tabelas
+```
+qa-site-testes/
+├── README.md
+├── docs/
+│   ├── casos-de-teste.md
+│   └── bug-report.md
+```
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 📋 Práticas Aplicadas
 
-- Git & GitHub
-- JavaScript
-- Node.js
-- Cypress
-- Jira
-- HTML & CSS
-- SQL (PostgreSQL)
+- Testes Manuais  
+- Testes Funcionais  
+- Estruturação de Casos de Teste  
+- Bug Report Documentado  
+- Organização de documentação técnica  
+- Versionamento com Git  
+
+---
+
+## 🛠️ Ferramentas Utilizadas
+
+- Git  
+- GitHub  
+- Markdown  
+
+---
+
+## 📌 Contexto
+
+Projeto desenvolvido como prática orientada à formação em Quality Assurance, com foco em atenção aos detalhes, padronização e melhoria contínua.
 
 ---
 
 ## 📬 Contato
 
 - 📧 E-mail: giordanocaruso@gmail.com
-- 💼 LinkedIn: [em breve]
-
----
-
-## 📂 Estrutura do Repositório (inicial)
-
-```bash
-qa-site-testes/
-├── README.md
-└── (estrutura será adicionada conforme evolução do projeto)
+- 💼 LinkedIn: linkedin.com/in/giordano-medeiros-caruso-643b07231
